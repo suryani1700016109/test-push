@@ -1,0 +1,554 @@
+1.C:\Users\surya\Documents>mkdir suryani
+
+2.C:\Users\surya\Documents>dir
+ Volume in drive C is OS
+ Volume Serial Number is 6AB2-4B88
+
+ Directory of C:\Users\surya\Documents
+
+18/02/2020  15:01    <DIR>          .
+18/02/2020  15:01    <DIR>          ..
+20/01/2020  16:47    <DIR>          Adobe
+17/02/2020  17:38    <DIR>          Corel
+22/01/2020  01:41    <DIR>          Custom Office Templates
+21/12/2019  00:23                 5 eef.cpg
+21/12/2019  00:23                66 eef.dbf
+21/12/2019  00:23               143 eef.prj
+21/12/2019  00:23               257 eef.qpj
+21/12/2019  00:23               100 eef.shp
+21/12/2019  00:23               100 eef.shx
+21/11/2019  18:51    <DIR>          GIS DataBase
+09/12/2019  15:01    <DIR>          iova_pap
+05/12/2019  10:02        78.684.563 iova_pap.rar
+05/03/2019  22:41    <DIR>          node-v10.15.3-win-x64
+08/12/2019  17:46        16.066.348 node-v10.15.3-win-x64.zip
+17/12/2019  14:21    <DIR>          pap3
+22/12/2019  21:41            13.837 papppp.docx
+03/12/2019  00:05    <DIR>          Project
+26/12/2019  00:11         1.299.630 rangkumanyani.docx
+08/12/2019  20:08    <DIR>          rest-api
+22/12/2019  20:06         1.395.631 sister.docx
+25/12/2019  14:43           828.649 sisteryanitranlate.docx
+22/12/2019  19:22         1.300.113 sister~EAAF58.tmp
+18/02/2020  15:01    <DIR>          suryani
+17/02/2020  22:51               885 Untitled.pdf
+03/12/2019  02:13    <DIR>          Visual Studio 2019
+18/02/2020  14:39    <DIR>          yani
+              14 File(s)     99.590.327 bytes
+              14 Dir(s)  302.097.379.328 bytes free
+
+3. C:\Users\surya\Documents>echo Hello Yani!
+Hello Yani!
+
+4.C:\Users\surya\Documents>hostname
+LAPTOP-GPVAT98D
+
+5.C:\Users\surya\Documents>date /t
+18/02/2020
+
+6.C:\Users\surya\Documents>color 0a
+keterangan: 0a (mengubah warna tulisan menjadi hijau)
+
+7.C:\Users\surya\Documents>nslookup www.is.uad.ac.id
+Server:  UnKnown
+Address:  103.19.180.213
+
+Non-authoritative answer:
+Name:    is.uad.ac.id
+Address:  103.19.180.67
+Aliases:  www.is.uad.ac.id
+
+8.C:\Users\surya\Documents>netstat
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    10.0.139.8:49416       52.139.250.253:https   ESTABLISHED
+  TCP    10.0.139.8:49748       ec2-3-225-231-37:https  ESTABLISHED
+  TCP    10.0.139.8:51422       172.217.194.189:https  ESTABLISHED
+  TCP    10.0.139.8:51439       ec2-13-113-219-16:https  ESTABLISHED
+  TCP    10.0.139.8:51443       sc-in-f188:5228        ESTABLISHED
+  TCP    10.0.139.8:51444       74.125.24.139:https    ESTABLISHED
+  TCP    10.0.139.8:51445       172.217.194.94:https   ESTABLISHED
+  TCP    10.0.139.8:51446       74.125.24.94:https     ESTABLISHED
+  TCP    10.0.139.8:51447       172.217.194.156:https  ESTABLISHED
+  TCP    10.0.139.8:51449       111.221.29.254:https   ESTABLISHED
+  TCP    10.0.139.8:51450       e2a:https              ESTABLISHED
+  TCP    10.0.139.8:51451       74.125.24.94:https     ESTABLISHED
+  TCP    10.0.139.8:51456       117.18.232.200:https   ESTABLISHED
+  TCP    10.0.139.8:51460       172.217.194.102:https  ESTABLISHED
+  TCP    10.0.139.8:51463       151.101.192.133:https  ESTABLISHED
+  TCP    10.0.139.8:51464       151.101.192.133:https  ESTABLISHED
+  TCP    10.0.139.8:51465       151.101.192.133:https  ESTABLISHED
+  TCP    10.0.139.8:51466       20.36.253.92:https     ESTABLISHED
+  TCP    10.0.139.8:51469       13.107.21.200:https    ESTABLISHED
+  TCP    10.0.139.8:51474       whatsapp-cdn-shv-01-xsp1:https  ESTABLISHED
+  TCP    10.0.139.8:51476       172.217.194.95:https   ESTABLISHED
+  TCP    10.0.139.8:51480       fra02-002:http         ESTABLISHED
+  TCP    10.0.139.8:51482       a23-199-150-181:https  ESTABLISHED
+  TCP    10.0.139.8:51484       ec2-52-74-223-119:https  ESTABLISHED
+  TCP    10.0.139.8:51485       ec2-52-74-223-119:https  ESTABLISHED
+  TCP    10.0.139.8:51486       ec2-52-74-223-119:https  ESTABLISHED
+  TCP    10.0.139.8:51487       ec2-52-74-223-119:https  ESTABLISHED
+  TCP    10.0.139.8:51488       ec2-54-238-86-93:https  ESTABLISHED
+  TCP    10.0.139.8:51489       151.101.128.133:https  ESTABLISHED
+  TCP    10.0.139.8:51490       filerep-prod-010:http  FIN_WAIT_1
+  TCP    127.0.0.1:49712        LAPTOP-GPVAT98D:49784  ESTABLISHED
+  TCP    127.0.0.1:49784        LAPTOP-GPVAT98D:49712  ESTABLISHED
+
+9.C:\Users\surya\Documents>whoami
+laptop-gpvat98d\surya
+
+10.C:\Users\surya\Documents>ping google.com
+
+Pinging google.com [74.125.24.138] with 32 bytes of data:
+Reply from 74.125.24.138: bytes=32 time=24ms TTL=55
+Reply from 74.125.24.138: bytes=32 time=35ms TTL=55
+Reply from 74.125.24.138: bytes=32 time=24ms TTL=55
+Reply from 74.125.24.138: bytes=32 time=24ms TTL=55
+
+Ping statistics for 74.125.24.138:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 24ms, Maximum = 35ms, Average = 26ms
+
+11.C:\Users\surya\Documents>set
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_HOME=C:\sdk
+ANT_HOME=C:\apache-ant-1.9.14
+APPDATA=C:\Users\surya\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=LAPTOP-GPVAT98D
+ComSpec=C:\WINDOWS\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\surya
+INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_202
+LOCALAPPDATA=C:\Users\surya\AppData\Local
+LOGONSERVER=\\LAPTOP-GPVAT98D
+MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+NUMBER_OF_PROCESSORS=8
+OneDrive=C:\Users\surya\OneDrive
+OS=Windows_NT
+Path=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\surya\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_202\bin;C:\apache-ant-1.9.14\bin;C:\sdk\platform-tools;C:\sdk\tools;;C:\Users\surya\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\surya\AppData\Roaming\npm
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 11, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e0b
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\Users\surya\AppData\Local\Temp
+TMP=C:\Users\surya\AppData\Local\Temp
+USERDOMAIN=LAPTOP-GPVAT98D
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-GPVAT98D
+USERNAME=surya
+USERPROFILE=C:\Users\surya
+windir=C:\WINDOWS
+
+12.C:\Users\surya\Documents>tracert localhost
+
+Tracing route to LAPTOP-GPVAT98D [::1]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  LAPTOP-GPVAT98D [::1]
+
+Trace complete.
+
+13.C:\Users\surya\Documents>gpresult
+
+GPRESULT [/S system [/U username [/P [password]]]] [/SCOPE scope]
+           [/USER targetusername] [/R | /V | /Z]
+
+Description:
+    This command line tool displays the Resultant Set of Policy (RSoP)
+    information for a target user and computer.
+
+Parameter List:
+    /S        system           Specifies the remote system to connect to.
+
+    /U        [domain\]user    Specifies the user context under which the
+                               command should run.
+    /P        [password]       Specifies the password for the given user
+                               context. Prompts for input if omitted.
+    /SCOPE    scope            Specifies whether the user or the
+                               computer settings need to be displayed.
+                               Valid values: "USER", "COMPUTER".
+
+    /USER     [domain\]user    Specifies the user name for which the
+                               RSoP data is to be displayed.
+
+    /R                         Displays RSoP summary data.
+
+    /V                         Specifies that verbose information should
+                               be displayed. Verbose information provides
+                               additional detailed settings that have
+                               been applied with a precedence of 1.
+
+    /Z                         Specifies that the super-verbose
+                               information should be displayed. Super-
+                               verbose information provides additional
+                               detailed settings that have been applied
+                               with a precedence of 1 and higher. This
+                               allows you to see if a setting was set in
+                               multiple places. See the Group Policy
+                               online help topic for more information.
+
+    /?                         Displays this help message.
+
+
+Examples:
+    GPRESULT /R
+    GPRESULT /USER targetusername /V
+    GPRESULT /S system /USER targetusername /SCOPE COMPUTER /Z
+    GPRESULT /S system /U username /P password /SCOPE USER /V
+14.C:\Users\surya\Documents>fsutil
+---- Commands Supported ----
+
+8dot3name         8dot3name management
+behavior          Control file system behavior
+dax               Dax volume management
+dirty             Manage volume dirty bit
+file              File specific commands
+fsInfo            File system information
+hardlink          Hardlink management
+objectID          Object ID management
+quota             Quota management
+repair            Self healing management
+reparsePoint      Reparse point management
+storageReserve    Storage Reserve management
+resource          Transactional Resource Manager management
+sparse            Sparse file control
+tiering           Storage tiering property management
+transaction       Transaction management
+usn               USN management
+volume            Volume management
+wim               Transparent wim hosting management
+
+15.C:\Users\surya\Documents>rpcping
+Exception 5 (0x00000005)
+Number of records is: 1
+ProcessID is 7952
+System Time is: 2/18/2020 10:2:48:2
+Generating component is 2
+Status is 0x5, 5
+Detection location is 1750
+Flags is 0
+NumberOfParameters is 1
+Long val: 0x5
+
+16.C:\Users\surya\Documents>tasklist
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0         36 K
+Registry                       120 Services                   0     67.636 K
+smss.exe                       536 Services                   0        316 K
+csrss.exe                      720 Services                   0      4.144 K
+wininit.exe                    824 Services                   0      4.264 K
+csrss.exe                      844 Console                    1      5.024 K
+services.exe                   896 Services                   0      9.220 K
+lsass.exe                      912 Services                   0     16.476 K
+svchost.exe                     92 Services                   0    235.824 K
+fontdrvhost.exe                392 Services                   0      1.916 K
+svchost.exe                    408 Services                   0    275.672 K
+WUDFHost.exe                   444 Services                   0      4.324 K
+svchost.exe                    700 Services                   0    258.936 K
+svchost.exe                    928 Services                   0    248.328 K
+winlogon.exe                  1056 Console                    1     10.700 K
+WUDFHost.exe                  1120 Services                   0     14.316 K
+fontdrvhost.exe               1160 Console                    1      5.860 K
+dwm.exe                       1240 Console                    1     68.588 K
+svchost.exe                   1316 Services                   0    249.788 K
+svchost.exe                   1348 Services                   0    238.396 K
+svchost.exe                   1360 Services                   0    260.460 K
+svchost.exe                   1372 Services                   0    266.248 K
+svchost.exe                   1536 Services                   0    259.712 K
+svchost.exe                   1548 Services                   0    258.104 K
+svchost.exe                   1572 Services                   0     10.780 K
+svchost.exe                   1608 Services                   0    264.896 K
+svchost.exe                   1640 Services                   0    264.176 K
+svchost.exe                   1756 Services                   0     10.020 K
+svchost.exe                   1804 Services                   0    251.152 K
+svchost.exe                   1896 Services                   0    245.436 K
+svchost.exe                   1944 Services                   0      6.336 K
+svchost.exe                   1984 Services                   0    241.980 K
+svchost.exe                    820 Services                   0    245.656 K
+svchost.exe                   1812 Services                   0    243.872 K
+svchost.exe                   2088 Services                   0    257.868 K
+svchost.exe                   2212 Services                   0    260.312 K
+igfxCUIService.exe            2344 Services                   0      6.668 K
+svchost.exe                   2404 Services                   0     10.236 K
+NVDisplay.Container.exe       2472 Services                   0     10.244 K
+svchost.exe                   2496 Services                   0    263.476 K
+svchost.exe                   2588 Services                   0    273.348 K
+wsc_proxy.exe                 2596 Services                   0      8.340 K
+svchost.exe                   2608 Services                   0    245.180 K
+Memory Compression            2688 Services                   0    170.032 K
+svchost.exe                   2740 Services                   0    250.472 K
+svchost.exe                   2844 Services                   0    248.864 K
+svchost.exe                   2852 Services                   0    250.740 K
+svchost.exe                   2860 Services                   0      6.524 K
+NVDisplay.Container.exe       2988 Console                    1     21.824 K
+svchost.exe                   3036 Services                   0      7.412 K
+svchost.exe                   3056 Services                   0    269.092 K
+svchost.exe                   2772 Services                   0    244.532 K
+svchost.exe                   3100 Services                   0     12.904 K
+AsLdrSrv64.exe                3220 Services                   0      4.216 K
+svchost.exe                   3228 Services                   0    268.736 K
+AvastSvc.exe                  3236 Services                   0    257.568 K
+wlanext.exe                   3244 Services                   0     13.168 K
+conhost.exe                   3284 Services                   0      3.680 K
+AsMonStartupTask64.exe        3732 Console                    1     10.512 K
+spoolsv.exe                   3788 Services                   0      9.032 K
+sihost.exe                    3920 Console                    1     26.600 K
+svchost.exe                   3984 Console                    1     24.372 K
+svchost.exe                   3996 Services                   0     12.488 K
+svchost.exe                   4064 Services                   0    251.328 K
+igfxEM.exe                    3152 Console                    1     15.256 K
+svchost.exe                   3304 Console                    1     35.328 K
+taskhostw.exe                 4116 Console                    1     14.756 K
+ASUSHelloBG.exe               4176 Console                    1        568 K
+svchost.exe                   4208 Services                   0    275.664 K
+svchost.exe                   4256 Services                   0    246.200 K
+ctfmon.exe                    4388 Console                    1     13.620 K
+svchost.exe                   4604 Services                   0    248.308 K
+explorer.exe                  4788 Console                    1    112.868 K
+AdobeUpdateService.exe        5048 Services                   0      8.056 K
+AGSService.exe                5060 Services                   0      8.168 K
+AGMService.exe                5068 Services                   0      8.620 K
+AsHidSrv64.exe                5076 Services                   0      2.468 K
+AsusLiveUpdateAgent.exe       5088 Services                   0      6.428 K
+ASUSOptimization.exe          5096 Services                   0      6.068 K
+svchost.exe                   4136 Services                   0     17.464 K
+AsusPTPService.exe            4340 Services                   0      5.156 K
+IntelCpHDCPSvc.exe            4840 Services                   0      5.168 K
+svchost.exe                   4132 Services                   0    258.656 K
+AsusSystemDiagnosis.exe       5144 Services                   0      3.796 K
+AsusSystemAnalysis.exe        5160 Services                   0      7.620 K
+svchost.exe                   5176 Services                   0     26.132 K
+OfficeClickToRun.exe          5188 Services                   0     42.088 K
+svchost.exe                   5240 Services                   0    307.936 K
+ibtsiva.exe                   5296 Services                   0      2.848 K
+EvtEng.exe                    5304 Services                   0     11.360 K
+esif_uf.exe                   5324 Services                   0      3.988 K
+ICEsoundService64.exe         5456 Services                   0      4.784 K
+svchost.exe                   5536 Services                   0      6.236 K
+svchost.exe                   5552 Services                   0    241.384 K
+RegSrvc.exe                   5564 Services                   0      6.272 K
+RtkAudUService64.exe          5576 Services                   0      6.956 K
+NvTelemetryContainer.exe      5584 Services                   0      8.760 K
+jhi_service.exe               5596 Services                   0      3.960 K
+svchost.exe                   5604 Services                   0    271.312 K
+IntelAudioService.exe         5616 Services                   0     25.696 K
+SegurazoService.exe           5632 Services                   0     56.124 K
+SegurazoIC.exe                5640 Services                   0     11.124 K
+svchost.exe                   5664 Services                   0    243.748 K
+svchost.exe                   5692 Services                   0    263.696 K
+svchost.exe                   5700 Services                   0    237.308 K
+Service_KMS.exe               5836 Services                   0     25.796 K
+svchost.exe                   6048 Services                   0    245.360 K
+svchost.exe                   6168 Services                   0      9.544 K
+IntelCpHeciSvc.exe            6504 Services                   0      4.644 K
+svchost.exe                   6632 Services                   0    246.420 K
+unsecapp.exe                  6836 Services                   0      5.724 K
+svchost.exe                   6856 Services                   0    235.316 K
+svchost.exe                   7020 Console                    1    277.084 K
+svchost.exe                   6424 Services                   0      9.736 K
+WmiPrvSE.exe                  7860 Services                   0     14.284 K
+svchost.exe                   8120 Services                   0    267.748 K
+dllhost.exe                   8148 Console                    1      5.444 K
+svchost.exe                   8168 Services                   0      5.256 K
+ShellExperienceHost.exe       6964 Console                    1     60.012 K
+SearchUI.exe                  8652 Console                    1     78.276 K
+RuntimeBroker.exe             8872 Console                    1     27.844 K
+RuntimeBroker.exe             8932 Console                    1     28.764 K
+svchost.exe                   8924 Services                   0     18.284 K
+SkypeBackgroundHost.exe       8992 Console                    1         60 K
+SettingSyncHost.exe           9424 Console                    1      4.804 K
+svchost.exe                   9760 Services                   0      8.852 K
+GoogleCrashHandler.exe        9884 Services                   0      1.240 K
+GoogleCrashHandler64.exe      9904 Services                   0        308 K
+SecurityHealthService.exe    10068 Services                   0     12.376 K
+aswidsagent.exe              10112 Services                   0     39.200 K
+svchost.exe                  10272 Services                   0      7.252 K
+dllhost.exe                  10716 Services                   0      8.276 K
+RuntimeBroker.exe            10968 Console                    1     16.312 K
+SecurityHealthSystray.exe    11176 Console                    1      6.172 K
+smartscreen.exe              10300 Console                    1     23.092 K
+AvastUI.exe                   8040 Console                    1     42.580 K
+svchost.exe                   8472 Services                   0      4.216 K
+figma_agent.exe               5488 Console                    1      6.732 K
+svchost.exe                  10960 Services                   0     10.416 K
+HControl.exe                  4988 Console                    1      5.900 K
+svchost.exe                  10660 Services                   0      6.404 K
+AdobeIPCBroker.exe            7424 Console                    1      9.520 K
+jusched.exe                  11288 Console                    1     10.472 K
+Creative Cloud.exe           11352 Console                    1     72.228 K
+Adobe Desktop Service.exe    11552 Console                    1     86.792 K
+Adobe CEF Helper.exe         11584 Console                    1     78.032 K
+SkypeApp.exe                 11712 Console                    1         80 K
+CCLibrary.exe                11980 Console                    1      1.104 K
+node.exe                     12004 Console                    1     43.028 K
+conhost.exe                   7456 Console                    1      4.064 K
+CoreSync.exe                  1976 Console                    1     27.868 K
+RuntimeBroker.exe            12100 Console                    1     18.984 K
+chrome.exe                   11984 Console                    1    187.552 K
+chrome.exe                   11360 Console                    1      8.452 K
+chrome.exe                    8276 Console                    1      6.620 K
+chrome.exe                   12404 Console                    1    603.088 K
+chrome.exe                   12412 Console                    1     43.260 K
+chrome.exe                   12892 Console                    1     39.832 K
+AdobeNotificationClient.e    12444 Console                    1        292 K
+SegurazoClient.exe             856 Console                    1     89.124 K
+chrome.exe                   12340 Console                    1    352.696 K
+RtkAudUService64.exe         12752 Console                    1        396 K
+chrome.exe                   12804 Console                    1    125.000 K
+RuntimeBroker.exe            12124 Console                    1      4.600 K
+chrome.exe                   13004 Console                    1     71.864 K
+svchost.exe                   1176 Services                   0      6.224 K
+chrome.exe                   13804 Console                    1     60.812 K
+chrome.exe                   13844 Console                    1     41.692 K
+notepad.exe                  14296 Console                    1     14.136 K
+AvastUI.exe                  13640 Console                    1      2.412 K
+Adobe Installer.exe          15040 Console                    1      7.348 K
+ATKOSD2.exe                  14820 Console                    1      9.036 K
+ApplicationFrameHost.exe      3620 Console                    1     31.976 K
+dllhost.exe                  13208 Console                    1      8.764 K
+cmd.exe                       1084 Console                    1      3.452 K
+conhost.exe                   1068 Console                    1     13.244 K
+SystemSettingsBroker.exe     14552 Console                    1     13.588 K
+SystemSettings.exe            2468 Console                    1         64 K
+CCXProcess.exe               10180 Console                    1      1.700 K
+node.exe                     13284 Console                    1     36.988 K
+conhost.exe                   1136 Console                    1      4.092 K
+svchost.exe                   4292 Console                    1      9.796 K
+SgrmBroker.exe               11864 Services                   0      5.020 K
+svchost.exe                  15008 Services                   0      8.532 K
+chrome.exe                   14576 Console                    1     73.164 K
+chrome.exe                    9376 Console                    1     79.412 K
+chrome.exe                    4852 Console                    1     57.140 K
+chrome.exe                    5648 Console                    1     59.516 K
+chrome.exe                    6496 Console                    1     41.876 K
+chrome.exe                   14364 Console                    1     38.212 K
+chrome.exe                   14556 Console                    1     50.332 K
+WmiApSrv.exe                  4052 Services                   0      4.372 K
+jucheck.exe                  10264 Console                    1     11.092 K
+WindowsInternal.Composabl    12184 Console                    1     33.936 K
+QTranslate.exe               14864 Console                    1     18.288 K
+svchost.exe                   7136 Services                   0      6.296 K
+svchost.exe                   8908 Services                   0      7.212 K
+chrome.exe                   13320 Console                    1     59.844 K
+chrome.exe                   12568 Console                    1     43.052 K
+chrome.exe                   11812 Console                    1     57.940 K
+chrome.exe                    6772 Console                    1     82.452 K
+chrome.exe                    7436 Console                    1     67.164 K
+Video.UI.exe                 14072 Console                    1        116 K
+RuntimeBroker.exe            13548 Console                    1      7.624 K
+XD.exe                        3624 Console                    1        320 K
+Microsoft.Photos.exe          1664 Console                    1        240 K
+svchost.exe                  10488 Services                   0      8.856 K
+RuntimeBroker.exe             4452 Console                    1     16.516 K
+LockApp.exe                   1424 Console                    1     39.088 K
+RuntimeBroker.exe             1724 Console                    1     31.900 K
+WinStore.App.exe             13148 Console                    1     66.108 K
+RuntimeBroker.exe            10400 Console                    1     16.472 K
+chrome.exe                   10016 Console                    1     20.232 K
+WmiPrvSE.exe                 12152 Services                   0     13.452 K
+wps.exe                       2452 Console                    1      2.784 K
+wpscenter.exe                10324 Console                    1     58.216 K
+wpscenter.exe                 5672 Console                    1     33.960 K
+svchost.exe                  11704 Services                   0      7.940 K
+svchost.exe                   4616 Services                   0      6.512 K
+tasklist.exe                  2336 Console                    1      7.544 K
+
+17.C:\Users\surya\Documents>tzutil /g
+SE Asia Standard Time
+
+18.C:\Users\surya\Documents>clip /?
+
+CLIP
+
+Description:
+    Redirects output of command line tools to the Windows clipboard.
+    This text output can then be pasted into other programs.
+
+Parameter List:
+    /?                  Displays this help message.
+
+Examples:
+    DIR | CLIP          Places a copy of the current directory
+                        listing into the Windows clipboard.
+
+    CLIP < README.TXT   Places a copy of the text from readme.txt
+                        on to the Windows clipboard.
+
+19.C:\Users\surya\Documents>auditpol
+Usage: AuditPol command [<sub-command><options>]
+
+
+Commands (only one command permitted per execution)
+  /?               Help (context-sensitive)
+  /get             Displays the current audit policy.
+  /set             Sets the audit policy.
+  /list            Displays selectable policy elements.
+  /backup          Saves the audit policy to a file.
+  /restore         Restores the audit policy from a file.
+  /clear           Clears the audit policy.
+  /remove          Removes the per-user audit policy for a user account.
+  /resourceSACL    Configure global resource SACLs
+
+
+Use AuditPol <command> /? for details on each command
+
+20.C:\Users\surya\Documents>rmdir yani
+
+C:\Users\surya\Documents>dir
+ Volume in drive C is OS
+ Volume Serial Number is 6AB2-4B88
+
+ Directory of C:\Users\surya\Documents
+
+18/02/2020  17:14    <DIR>          .
+18/02/2020  17:14    <DIR>          ..
+20/01/2020  16:47    <DIR>          Adobe
+17/02/2020  17:38    <DIR>          Corel
+22/01/2020  01:41    <DIR>          Custom Office Templates
+21/12/2019  00:23                 5 eef.cpg
+21/12/2019  00:23                66 eef.dbf
+21/12/2019  00:23               143 eef.prj
+21/12/2019  00:23               257 eef.qpj
+21/12/2019  00:23               100 eef.shp
+21/12/2019  00:23               100 eef.shx
+21/11/2019  18:51    <DIR>          GIS DataBase
+09/12/2019  15:01    <DIR>          iova_pap
+05/12/2019  10:02        78.684.563 iova_pap.rar
+05/03/2019  22:41    <DIR>          node-v10.15.3-win-x64
+08/12/2019  17:46        16.066.348 node-v10.15.3-win-x64.zip
+17/12/2019  14:21    <DIR>          pap3
+22/12/2019  21:41            13.837 papppp.docx
+03/12/2019  00:05    <DIR>          Project
+26/12/2019  00:11         1.299.630 rangkumanyani.docx
+08/12/2019  20:08    <DIR>          rest-api
+22/12/2019  20:06         1.395.631 sister.docx
+25/12/2019  14:43           828.649 sisteryanitranlate.docx
+22/12/2019  19:22         1.300.113 sister~EAAF58.tmp
+18/02/2020  15:01    <DIR>          suryani
+17/02/2020  22:51               885 Untitled.pdf
+03/12/2019  02:13    <DIR>          Visual Studio 2019
+              14 File(s)     99.590.327 bytes
+              13 Dir(s)  302.452.584.448 bytes free
